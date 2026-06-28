@@ -1,0 +1,8 @@
+01_RAW_DATA/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp
+*.log
